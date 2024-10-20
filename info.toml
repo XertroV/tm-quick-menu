@@ -1,0 +1,12 @@
+[meta]
+name = "Quickmenu"
+author = "XertroV"
+category = "Utilities"
+version = "1.0.0"
+siteid = 633
+
+[script]
+defines = [ "RELEASE" ]
+dependencies = [ "NadeoServices" ]
+optional_dependencies = [ "Editor", "map-together" ]
+
